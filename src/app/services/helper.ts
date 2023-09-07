@@ -1,2 +1,2 @@
-let baseUrl = 'http://localhost:8080';
+let baseUrl = 'https://examportalbackend-production.up.railway.app/';
 export default baseUrl;
